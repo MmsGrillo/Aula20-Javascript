@@ -25,6 +25,6 @@ Neste repositório, você encontrará uma série de projetos práticos em JavaSc
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias, correções ou novas funcionalidades.
 
 ## Contato:
-Para qualquer dúvida ou sugestão, entre em contato por [e-mail] ou [LinkedIn].
+Para qualquer dúvida ou sugestão, entre em contato por mmgrillo@hotmail.com ou https://www.linkedin.com/in/murillogrillo/.
 
 Obrigado por conferir meus projetos em JavaScript! 😊🚀
